@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: brown;
+}
+input {
+  padding: 1rem;
+  width: 60%;
+  border-color: blue;
+  border-radius: 0.5rem;
+}
+hr {
+  padding-bottom: 0.5rem;
+  background-color: red;
+  border-radius: 0.5rem;
+}
